@@ -1,0 +1,9 @@
+#start-box {
+  display: none;
+}
+body.start #start-box {
+  display: block;
+}
+body.start #game-box {
+  display: none;
+}
